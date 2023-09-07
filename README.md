@@ -7,5 +7,7 @@ increase views on the website to sell their boat. The data is collected over a w
 includes a variable for the number of views received in the last seven days. This data is mostly 
 trustworthy since it is being sourced from a website which can measure the number of clicks within a 
 certain timespan. There is room for error or bias in terms of the boat type, manufacturer, 
-measurements, etc. due to the owner inpuƫng this data into the boat’s profile. There are 9889 rows and 
+measurements, etc. due to the owner inputting this data into the boat’s profile. There are 9889 rows and 
 10 columns.
+
+Link to Power BI report: https://drive.google.com/file/d/1CPDsZWI0BWrlQJiL4b_y3CiMXI-l63OM/view?usp=sharing
